@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">GPA_gottimukkalr1_Calculator</string>
+    <string name="A">4.0</string>
+    <string name="AMinus">3.7</string>
+    <string name="BPlus">3.3</string>
+    <string name="B">3.0</string>
+    <string name="BMinus">2.7</string>
+    <string name="CPlus">2.3</string>
+    <string name="C">2.0</string>
+    <string name="CMinus">1.7</string>
+    <string name="DPlus">1.3</string>
+    <string name="D">1.0</string>
+    <string name="DMinus">0.7</string>
+    <string name="E">0.7</string>
+    <string name="F">0.0</string>
+    <string name="inputLetters">ABCDEF+-"</string>
+</resources>
